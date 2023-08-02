@@ -1,0 +1,29 @@
+.tag-1 {
+  color: #336699; /* Mã màu HEX hoặc tên màu */
+  font-size: 36px; /* Cỡ chữ */
+  font-weight: bold; /* Đậm */
+  font-family: Arial, sans-serif; /* Font chữ */
+  text-align: center; /* Căn giữa nội dung trong thẻ h1 */
+  text-transform: uppercase; /* Chuyển tất cả chữ thành in hoa */
+  text-shadow: 2px 2px 4px #000000; /* Hiệu ứng bóng chữ */
+}
+
+.tag-2 {
+  color: #66cc99; /* Mã màu HEX hoặc tên màu */
+  font-size: 48px; /* Cỡ chữ */
+  font-weight: normal; /* Chữ bình thường (không in đậm) */
+  font-family: "Times New Roman", serif; /* Font chữ */
+  text-align: center; /* Căn giữa nội dung trong thẻ h1 */
+  text-transform: capitalize; /* Chữ cái đầu tiên viết hoa */
+  text-shadow: 2px 2px 4px #666666; /* Hiệu ứng bóng chữ */
+}
+
+.show-1 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.show-2 {
+  display: flex;
+  justify-content: space-around;
+}
